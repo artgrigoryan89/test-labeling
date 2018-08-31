@@ -1,0 +1,13 @@
+body {
+    padding-top: 20px;
+}
+
+@media (min-width: 1200px) {
+    .text-right-lg {
+        text-align: right;
+    }
+}
+.my-checkbox-inline {
+    display: inline-block;
+    margin-right: 10px;
+}
